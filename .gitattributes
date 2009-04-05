@@ -10,6 +10,9 @@
 /apertium-en-pt.en.acx -text
 /apertium-en-pt.en.metadix -text
 /apertium-en-pt.en.tsx -text
+/apertium-en-pt.pt-en.t1x -text
+/apertium-en-pt.pt-en.t2x -text
+/apertium-en-pt.pt-en.t3x -text
 /apertium-en-pt.pt.dix -text
 /apertium-en-pt.pt.tsx -text
 /autogen.sh -text
