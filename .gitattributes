@@ -1,0 +1,18 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/Makefile.am -text
+/README -text
+/apertium-en-pt.en-pt.dix -text
+/apertium-en-pt.en-pt.t1x -text
+/apertium-en-pt.en-pt.t2x -text
+/apertium-en-pt.en-pt.t3x -text
+/apertium-en-pt.en.metadix -text
+/apertium-en-pt.en.tsx -text
+/apertium-en-pt.pt.dix -text
+/apertium-en-pt.pt.tsx -text
+/autogen.sh -text
+/buscaPar.xsl -text
+/en-pt.prob -text
+/principal.xsl -text
+/pt-en.prob -text svneol=unset#unset
