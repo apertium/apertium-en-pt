@@ -213,10 +213,10 @@
       <cat-item tags="preadv"/>
     </def-cat>
 
-    <def-cat n="máis">
-      <cat-item lemma="máis" tags="adv"/>
-      <cat-item lemma="máis" tags="preadv"/>
-      <cat-item lemma="máis" tags="det.*"/>
+    <def-cat n="mais">
+      <cat-item lemma="mais" tags="adv"/>
+      <cat-item lemma="mais" tags="preadv"/>
+      <cat-item lemma="mais" tags="det.*"/>
     </def-cat>
 
     <def-cat n="adv">
@@ -3637,7 +3637,7 @@
    <rule comment="REGRA: DET ADV ADXECTIVO (para facer comparativas e superlativas: 'a máis grande - the biggest; a máis importante - the most important')">
       <pattern>
 	<pattern-item n="det"/>
-	<pattern-item n="máis"/>
+	<pattern-item n="mais"/>
 	<pattern-item n="adj_pp"/>
       </pattern>
       <action>          	
@@ -3700,7 +3700,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
-		  <lit v="máis"/>
+		  <lit v="mais"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="tl" part="a_adj"/> 
