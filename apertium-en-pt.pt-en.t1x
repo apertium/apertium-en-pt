@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
     <def-cat n="nom">
@@ -108,13 +108,13 @@
       <cat-item tags="vbhaver.*"/>
     </def-cat>
 
- <def-cat n="hai">
+ <def-cat n="há">
       <cat-item tags="vbhaver.*.p3.sg"/>
-      <cat-item lemma="hai" tags="vblex.*"/>
+      <cat-item lemma="há" tags="vblex.*"/>
     </def-cat>
 
- <def-cat n="hai_lex">
-      <cat-item lemma="hai" tags="vblex.*"/>
+ <def-cat n="há_lex">
+      <cat-item lemma="há" tags="vblex.*"/>
     </def-cat>
 
   <def-cat n="estar">
@@ -3813,7 +3813,7 @@
 
  <rule comment="REGRA: HABER">
       <pattern>
-	<pattern-item n="hai"/>
+	<pattern-item n="há"/>
       </pattern>
       <action>    	
 	<call-macro n="firstWord">
@@ -4305,7 +4305,7 @@
 <rule comment="REGRA: PROCLÍTIC HAI">
       <pattern>
 	<pattern-item n="pro"/>
-	<pattern-item n="hai"/>
+	<pattern-item n="há"/>
       </pattern>
       <action> 	
 	<call-macro n="firstWord">
@@ -6119,7 +6119,7 @@
  <rule comment="REGRA: ADV HAY (no había)">
       <pattern>
 	<pattern-item n="adv"/>
-	<pattern-item n="hai"/>
+	<pattern-item n="há"/>
       </pattern>
       <action> 	
 	<call-macro n="firstWord">
@@ -6834,7 +6834,7 @@
       <pattern>
 	<pattern-item n="adv"/>
 	<pattern-item n="pro"/>
-	<pattern-item n="hai_lex"/>
+	<pattern-item n="há_lex"/>
       </pattern>
       <action>
 	<call-macro n="firstWord">
