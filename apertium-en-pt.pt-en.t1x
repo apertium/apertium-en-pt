@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
+﻿<?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
     <def-cat n="nom">
@@ -1378,7 +1378,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
-		  <lit v="máis"/>
+		  <lit v="mais"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="tl" part="a_adj"/> 
@@ -1400,7 +1400,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
-		  <lit v="moito máis"/>
+		  <lit v="bem mais"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="tl" part="a_adj"/> 
@@ -1428,7 +1428,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/>
-		  <lit v="ben"/>
+		  <lit v="bem"/>
 		</equal>
 		<not>
 		  <equal>
@@ -1474,7 +1474,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="máis"/>
+		  <lit v="mais"/>
 		</equal>
 		<equal>
 		  <clip pos="3" side="tl" part="a_adj"/> 
@@ -1517,7 +1517,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="moito máis"/>
+		  <lit v="bem mais"/>
 		</equal>
 		<equal>
 		  <clip pos="3" side="tl" part="a_adj"/> 
@@ -1545,7 +1545,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="máis"/>
+		  <lit v="mais"/>
 		</equal>
 		<equal>
 		  <clip pos="1" side="sl" part="a_det"/>
@@ -1572,7 +1572,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/>
-		  <lit v="ben"/>
+		  <lit v="bem"/>
 		</equal>
 		<not>
 		  <equal>
@@ -1626,11 +1626,11 @@
 		<or>
 		  <equal>
 		    <clip pos="2" side="sl" part="lem"/>
-		    <lit v="mellor"/>
+		    <lit v="melhor"/>
 		  </equal>
 		  <equal>
 		    <clip pos="2" side="sl" part="lem"/>
-		    <lit v="peor"/>
+		    <lit v="pior"/>
 		  </equal>
 		</or>
 	      </and>
@@ -1641,7 +1641,7 @@
 	    </let>
 	  </when>
 	</choose> 
-</def-macro>     
+</def-macro>
 		
 
 
@@ -1922,13 +1922,13 @@
 			<lit v="poder"/>
 		      </equal>
 		    </test>
-		    <let>		     
+		    <let>
 		      <clip pos="1" side="tl" part="lem"/>
 		      <get-case-from pos="1">
 			<lit v="be able to"/>
 		      </get-case-from>
 		    </let>
-		    <let>		     
+		    <let>
 		      <clip pos="1" side="tl" part="a_verb"/>
 		      <lit-tag v="vbmod"/>
 		    </let>
