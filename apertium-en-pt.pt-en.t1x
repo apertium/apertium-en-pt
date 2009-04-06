@@ -3640,7 +3640,7 @@
 	<pattern-item n="mais"/>
 	<pattern-item n="adj_pp"/>
       </pattern>
-      <action>          	
+      <action>
 	<call-macro n="firstWord">
 	  <with-param pos="1"/>
 	</call-macro>
@@ -3783,7 +3783,7 @@
     </rule>
 
 
-
+<!-- Check this: I think it can be dropped -->
 <rule comment="REGRA: o (num)%">
       <pattern>
 	<pattern-item n="o"/>
@@ -4410,7 +4410,7 @@
 		    <clip pos="1" side="tl" part="tipus_prn"/>
 		    <clip pos="1" side="tl" part="pers"/>
 		    <clip pos="1" side="tl" part="gen"/>
-		    <clip pos="1" side="tl" part="nbr"/>		           
+		    <clip pos="1" side="tl" part="nbr"/>
 		    <clip pos="2" side="tl" part="lemq"/>
 		  </lu>
 		</mlu>
@@ -4497,12 +4497,12 @@
 	<pattern-item n="verbnm_inf_ger"/>
 	<pattern-item n="enc"/> 
       </pattern>
-      <action>          	
+      <action>
 	<call-macro n="firstWord">
 	  <with-param pos="1"/>
 	</call-macro>
 	
-	<choose>      
+	<choose>
 	  <when>
 	    <test>
 	      <equal>
