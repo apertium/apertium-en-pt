@@ -12,16 +12,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
@@ -44,16 +44,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="apertium-multiple-translations">
@@ -81,16 +81,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
@@ -145,7 +145,7 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
@@ -162,12 +162,12 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
     </pipeline>
@@ -183,16 +183,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
     </pipeline>
@@ -208,16 +208,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
@@ -461,16 +461,16 @@
         <file name="en-pt.lextormono.bin 3 3"/> 
       </program>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.lextorbil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="lt-proc $1">
@@ -528,16 +528,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
@@ -590,7 +590,7 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
@@ -607,12 +607,12 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
     </pipeline>
@@ -628,16 +628,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
     </pipeline>
@@ -653,16 +653,16 @@
       </program>
       <program name="apertium-pretransfer"/>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.autobil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
@@ -840,16 +840,16 @@
         <file name="en-pt.lextormono.bin 3 3"/> 
       </program>
       <program name="apertium-transfer">
-        <file name="apertium-en-pt.en-ca.t1x"/>
+        <file name="apertium-en-pt.en-pt.t1x"/>
         <file name="en-pt.t1x.bin"/>
         <file name="en-pt.lextorbil.bin"/>
       </program>
       <program name="apertium-interchunk">
-        <file name="apertium-en-pt.en-ca.t2x"/>
+        <file name="apertium-en-pt.en-pt.t2x"/>
         <file name="en-pt.t2x.bin"/>
       </program>
       <program name="apertium-postchunk">
-        <file name="apertium-en-pt.en-ca.t3x"/>
+        <file name="apertium-en-pt.en-pt.t3x"/>
         <file name="en-pt.t3x.bin"/>
       </program>
       <program name="lt-proc -d">
