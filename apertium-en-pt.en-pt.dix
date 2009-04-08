@@ -2250,11 +2250,11 @@
 <e><p><l>majority<s n="n"/></l><r>maioria<s n="n"/></r></p></e>
 <e><p><l>make<s n="n"/></l><r>marca<s n="n"/></r></p></e>
 <e><p><l>maker<s n="n"/></l><r>fabricante<s n="n"/></r></p></e>
-<e><p><l>male<s n="n"/></l><r>homem<s n="n"/></r></p></e>
+<e r="LR"><p><l>male<s n="n"/></l><r>homem<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>maliciousness<s n="n"/><s n="sg"/></l><r>maldade<s n="n"/></r></p></e>
 <e><p><l>maltreatment<s n="n"/></l><r>mau-trato<s n="n"/></r></p></e>
-<e><p><l>man<s n="n"/></l><r>homem<s n="n"/></r></p></e>
-<e><p><l>man<s n="n"/></l><r>varão<s n="n"/></r></p></e>
+<e><p><l>man<s n="n"/></l><r>homem<s n="n"/>i<s n="m"/></r></p></e>
+<e r="RL"><p><l>man<s n="n"/></l><r>varão<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>management<s n="n"/></l><r>administração<s n="n"/></r></p></e>
 <e><p><l>management<s n="n"/><s n="sg"/></l><r>gestão<s n="n"/></r></p></e>
 <e><p><l>manager<s n="n"/></l><r>director<s n="n"/></r></p></e>
