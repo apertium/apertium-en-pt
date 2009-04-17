@@ -3634,7 +3634,7 @@
 
 
 
-   <rule comment="REGRA: DET ADV ADXECTIVO (para facer comparativas e superlativas: 'a máis grande - the biggest; a máis importante - the most important')">
+   <rule comment="REGRA: DET ADV ADJECTIVO (para fazer comparativas e superlativas: 'a mais grande - the biggest; a mais importante - the most important')">
       <pattern>
 	<pattern-item n="det"/>
 	<pattern-item n="mais"/>
