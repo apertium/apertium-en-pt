@@ -117,43 +117,49 @@
     <e r="LR"><p><l>no<s n="det"/><s n="ind"/><s n="sp"/></l><r>nenhum<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r></p></e>
     <e r="RL"><p><l>other<s n="det"/></l><r>demais<s n="det"/></r></p></e>
     <e r="LR"><p><l>other<s n="det"/><s n="ind"/><s n="sp"/></l><r>outro<s n="det"/><s n="ind"/><s n="GD"/><s n="ND"/></r></p></e>
-    <e r="LR"><p><l>every<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e>
-<e><p><l>each<s n="det"/><s n="ind"/></l><r>cada<s n="det"/></r></p></e>
-<e><p><l>either<s n="det"/><s n="ind"/></l><r>nenhum<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-<e><p><l>either<s n="det"/><s n="ind"/></l><r>qualquer<s n="det"/></r></p></e>
-<e><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>o<b/>seu<s n="det"/></r></p></e>
+    <e r="LR"><p><l>every<s n="det"/><s n="ind"/></l><r>cada<s n="det"/><s n="ind"/><s n="mf"/></r></p></e><e><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>o<b/>seu<s n="det"/></r></p></e>
     <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>her<s n="det"/><s n="pos"/><s n="sp"/></l><r>seu<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
     <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/><s n="pos"/><s n="sp"/></l><r>seu<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
     <e r="RL" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>his<s n="det"/></l><r>seu<s n="det"/></r></p></e>
-<e><p><l>its<s n="det"/><s n="pos"/><s n="sp"/></l><r>o<b/>seu<s n="det"/></r></p></e>
-<e><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>o<b/>meu<s n="det"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>meu<s n="det"/></r></p></e>
-<e><p><l>my<s n="det"/></l><r>o<b/>meu<s n="det"/></r></p></e>
+    <e r="LR"><p><l>its<s n="det"/><s n="pos"/><s n="sp"/></l><r>suyo<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>my<s n="det"/></l><r>meo<s n="det"/></r></p></e>
+	<e r="RL"><p><l>my<s n="det"/></l><r>o<b/>meo<s n="det"/></r></p></e>
+    <e r="LR"><p><l>my<s n="det"/><s n="pos"/><s n="sp"/></l><r>meo<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>nosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>our<s n="det"/></l><r>nosso<s n="det"/></r></p></e>
+    <e r="RL"><p><l>our<s n="det"/></l><r>o<b/>nosso<s n="det"/></r></p></e>
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/></l><r>teu<s n="det"/></r></p></e>
+    <e r="RL" c="per ara de en-ca es genera només 'el vostre'"><p><l>your<s n="det"/></l><r>o</b>teu<s n="det"/></r></p></e>
+    <e r="LR"><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>vosso<s n="det"/><s n="pos"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>your<s n="det"/></l><r>vosso<s n="det"/></r></p></e>
+    <e r="RL"><p><l>your<s n="det"/></l><r>o<b/>vosso<s n="det"/></r></p></e>
+    <e r="LR" c="MG: traducció per defecte ca-en és per ara 'his'"><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>seu<s n="det"/><s n="pos"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="LR"><p><l>several<s n="det"/><s n="ind"/></l><r>vário<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>several<s n="det"/></l><r>vário<s n="det"/></r></p></e>
+    <e r="LR" c="frases afirmatives"><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>algum<s n="det"/><s n="qnt"/><s n="GD"/><s n="ND"/></r></p></e>
+    <e r="RL" c="frases afirmatives"><p><l>some<s n="det"/></l><r>algum<s n="det"/></r></p></e>
+    <e r="LR"><p><l>enough<s n="det"/><s n="qnt"/><s n="sp"/></l><r>bastante<s n="det"/><s n="qnt"/><s n="mf"/><s n="ND"/></r></p></e>
+    <e r="RL"><p><l>some<s n="det"/><s n="qnt"/></l><r>certo<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>how<b/>many<s n="det"/><s n="itg"/></l><r>quanto<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quanto<s n="det"/><s n="itg"/><s n="m"/><s n="pl"/></r></p></e>
+    <e r="RL"><p><l>how<b/>many<s n="det"/><s n="itg"/><s n="pl"/></l><r>quanto<s n="det"/><s n="itg"/><s n="f"/><s n="pl"/></r></p></e>
+    <e r="LR"><p><l>how<b/>much<s n="det"/><s n="itg"/></l><r>quanto<s n="det"/><s n="itg"/><s n="GD"/></r></p></e>
+    <e r="RL"><p><l>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></l><r>quanto<s n="det"/><s n="itg"/><s n="m"/><s n="sg"/></r></p></e>
+    <e r="RL"><p><l>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></l><r>quanto<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
+    <e r="LR"><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>que<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e>  <p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>que<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e r="LR" c="MG: a tractar pel trànsfer"><p><l>whose<s n="det"/><s n="itg"/></l><r>de<b/>quem<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>
+	
 <e><p><l>no<s n="det"/><s n="ind"/></l><r>nenhum<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
-<e><p><l>our<s n="det"/><s n="pos"/><s n="sp"/></l><r>o<b/>nosso<s n="det"/></r></p></e>
-<e><p><l>our<s n="det"/></l><r>nosso<s n="det"/></r></p></e>
-<e><p><l>our<s n="det"/></l><r>o<b/>nosso<s n="det"/></r></p></e>
-<e><p><l>several<s n="det"/><s n="ind"/></l><r>vário<s n="det"/></r></p></e>
-<e><p><l>several<s n="det"/></l><r>vário<s n="det"/></r></p></e>
-<e><p><l>some<s n="det"/><s n="qnt"/><s n="pl"/></l><r>um<s n="det"/></r></p></e>
-<e><p><l>some<s n="det"/><s n="qnt"/><s n="sp"/></l><r>algum<s n="det"/></r></p></e>
-<e><p><l>some<s n="det"/></l><r>algum<s n="det"/></r></p></e>
-<e><p><l>some<s n="det"/><s n="qnt"/></l><r>certo<s n="det"/></r></p></e>
     <e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>aquele<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>that<s n="det"/></l><r>aquele<s n="det"/></r></p></e>
     <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>o<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
     <e r="RL"><p><l>the<s n="det"/></l><r>o<s n="det"/></r></p></e>
-<e><p><l>their<s n="det"/><s n="pos"/><s n="sp"/></l><r>o<b/>seu<s n="det"/></r></p></e>
     <e r="LR"><p><l>this<s n="det"/><s n="dem"/></l><r>este<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>this<s n="det"/></l><r>este<s n="det"/></r></p></e>
     <e r="RL"><p><l>this<s n="det"/></l><r>esse<s n="det"/></r></p></e>
 <e><p><l>various<s n="det"/><s n="ind"/></l><r>vário<s n="det"/></r></p></e>
 <e><p><l>whatever<s n="det"/><s n="ind"/></l><r>qualquer<s n="det"/></r></p></e>
-<e><p><l>your<s n="det"/><s n="pos"/><s n="sp"/></l><r>o<b/>vosso<s n="det"/></r></p></e>
-<e><p><l>your<s n="det"/></l><r>o<b/>vosso<s n="det"/></r></p></e>
-<e><p><l>your<s n="det"/></l><r>vosso<s n="det"/></r></p></e>
-<e><p><l>your<s n="det"/></l><r>o<b/>teu<s n="det"/></r></p></e>
-<e><p><l>your<s n="det"/></l><r>teu<s n="det"/></r></p></e>
 
 <e><p><l>Afghanistan<s n="np"/><s n="loc"/></l><r>Afeganistão<s n="np"/></r></p></e>
 <e><p><l>Africa<s n="np"/><s n="loc"/></l><r>África<s n="np"/></r></p></e>
