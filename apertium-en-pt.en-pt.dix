@@ -6298,6 +6298,7 @@
 <e><p><l>in<b/>front<b/>of<s n="pr"/></l><r>adiante<b/>de<s n="pr"/></r></p></e>
 <e><p><l>instead<b/>of<s n="pr"/></l><r>ao<b/>invés<b/>de<s n="pr"/></r></p></e>
 <e><p><l>instead<b/>of<s n="pr"/></l><r>em<b/>vez<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>in<b/>lieu<b/>of<s n="pr"/></l><r>em<b/>lugar<b/>de<s n="pr"/></r></p></e>
 <e><p><l>into<s n="pr"/></l><r>a<s n="pr"/></r></p></e>
 <e><p><l>like<s n="pr"/></l><r>como<s n="pr"/></r></p></e>
 <e><p><l>near<s n="pr"/></l><r>cerca<b/>de<s n="pr"/></r></p></e>
@@ -6875,29 +6876,29 @@
 <e><p><l>yet<s n="adv"/></l><r>ainda<s n="adv"/></r></p></e>
 <e><p><l>yet<s n="adv"/></l><r>mesmo<s n="adv"/></r></p></e>
 <e><p><l>Organisation<b/>for<b/>Economic<b/>Co-operation<b/>and<b/>Development<s n="np"/></l><r>Organização<b/>para<b/>a<b/>Cooperação<b/>e<b/>Desenvolvimento<b/>Económico<s n="np"/></r></p></e>
-<e><p><l>abstraction<s n="n"/></l><r>abstracção<s n="n"/></r></p></e>
-<e><p><l>abstraction<s n="n"/></l><r>abstração<s n="n"/></r></p></e>
-<e><p><l>accompanier<s n="n"/></l><r>acompanhante<s n="n"/></r></p></e>
-<e><p><l>birthday<s n="n"/></l><r>aniversário<s n="n"/></r></p></e>
-<e><p><l>appearance<s n="n"/></l><r>aparência<s n="n"/></r></p></e>
-<e><p><l>approximation<s n="n"/></l><r>aproximação<s n="n"/></r></p></e>
-<e><p><l>trap<s n="n"/></l><r>armadilha<s n="n"/></r></p></e>
-<e><p><l>armour<s n="n"/></l><r>armadura<s n="n"/></r></p></e>
-<e><p><l>archive<s n="n"/></l><r>arquivo<s n="n"/></r></p></e>
-<e><p><l>handicraft<s n="n"/></l><r>artesanato<s n="n"/></r></p></e>
-<e><p><l>signature<s n="n"/></l><r>assinatura<s n="n"/></r></p></e>
-<e><p><l>altitude<s n="n"/></l><r>altura<s n="n"/></r></p></e>
-<e><p><l>adhesion<s n="n"/></l><r>adesão<s n="n"/></r></p></e>
-<e><p><l>stomach<s n="n"/></l><r>estômago<s n="n"/></r></p></e>
-<e><p><l>ethnic<b/>group<s n="n"/></l><r>etnia<s n="n"/></r></p></e>
-<e><p><l>extinction<s n="n"/></l><r>extinção<s n="n"/></r></p></e>
-<e><p><l>firmament<s n="n"/></l><r>firmamento<s n="n"/></r></p></e>
-<e><p><l>fugue<s n="n"/></l><r>fuga<s n="n"/></r></p></e>
-<e><p><l>fury<s n="n"/></l><r>furia<s n="n"/></r></p></e>
+<e><p><l>abstraction<s n="n"/></l><r>abstracção<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>abstraction<s n="n"/></l><r>abstração<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>accompanier<s n="n"/></l><r>acompanhante<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>birthday<s n="n"/></l><r>aniversário<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>appearance<s n="n"/></l><r>aparência<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>approximation<s n="n"/></l><r>aproximação<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>trap<s n="n"/></l><r>armadilha<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>armour<s n="n"/></l><r>armadura<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>archive<s n="n"/></l><r>arquivo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>handicraft<s n="n"/></l><r>artesanato<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>signature<s n="n"/></l><r>assinatura<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>altitude<s n="n"/></l><r>altura<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>adhesion<s n="n"/></l><r>adesão<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>stomach<s n="n"/></l><r>estômago<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ethnic<b/>group<s n="n"/></l><r>etnia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>extinction<s n="n"/></l><r>extinção<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>firmament<s n="n"/></l><r>firmamento<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>fugue<s n="n"/></l><r>fuga<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>fury<s n="n"/></l><r>furia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bodyguard<s n="n"/></l><r>guarda-costas<s n="n"/></r></p></e>
-<e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilha<s n="n"/></r></p></e>
-<e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilheiro<s n="n"/></r></p></e>
-<e><p><l>emperor<s n="n"/></l><r>imperador<s n="n"/></r></p></e>
+<e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilha<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilheiro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>emperor<s n="n"/></l><r>imperador<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>gala<s n="n"/></l><r>gala<s n="n"/></r></p></e>
 <e><p><l>galician<s n="n"/></l><r>galego<s n="n"/></r></p></e>
 <e><p><l>rooster<s n="n"/></l><r>galo<s n="n"/></r></p></e>
