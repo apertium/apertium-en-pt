@@ -6875,6 +6875,8 @@
 <e><p><l>yesterday<s n="adv"/></l><r>ontem<s n="adv"/></r></p></e>
 <e><p><l>yet<s n="adv"/></l><r>ainda<s n="adv"/></r></p></e>
 <e><p><l>yet<s n="adv"/></l><r>mesmo<s n="adv"/></r></p></e>
+
+<!-- Nouns -->
 <e><p><l>Organisation<b/>for<b/>Economic<b/>Co-operation<b/>and<b/>Development<s n="np"/></l><r>Organização<b/>para<b/>a<b/>Cooperação<b/>e<b/>Desenvolvimento<b/>Económico<s n="np"/></r></p></e>
 <e><p><l>abstraction<s n="n"/></l><r>abstracção<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>abstraction<s n="n"/></l><r>abstração<s n="n"/><s n="f"/></r></p></e>
@@ -6899,7 +6901,7 @@
 <e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilha<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>guerrilla<b/>warfare<s n="n"/></l><r>guerrilheiro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>emperor<s n="n"/></l><r>imperador<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>gala<s n="n"/></l><r>gala<s n="n"/></r></p></e>
+<e><p><l>gala<s n="n"/></l><r>gala<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>galician<s n="n"/></l><r>galego<s n="n"/></r></p></e>
 <e><p><l>rooster<s n="n"/></l><r>galo<s n="n"/></r></p></e>
 <e><p><l>goalkeeper<s n="n"/></l><r>goleiro<s n="n"/></r></p></e>
@@ -6908,24 +6910,24 @@
 <e><p><l>child<s n="n"/></l><r>infância<s n="n"/></r></p></e>
 <e><p><l>insanity<s n="n"/></l><r>insanidade<s n="n"/></r></p></e>
 <e><p><l>anger<s n="n"/></l><r>ira<s n="n"/></r></p></e>
-<e><p><l>kg<s n="n"/></l><r>kg<s n="n"/></r></p></e>
+<e><p><l>kg<s n="n"/></l><r>kg<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kilo<s n="n"/></l><r>kilo<s n="n"/></r></p></e>
-<e><p><l>km<s n="n"/></l><r>km<s n="n"/></r></p></e>
-<e><p><l>liberalism<s n="n"/></l><r>liberalismo<s n="n"/></r></p></e>
-<e><p><l>anxiety<s n="n"/></l><r>nervosismo<s n="n"/></r></p></e>
-<e><p><l>mosquito<s n="n"/></l><r>mosquito<s n="n"/></r></p></e>
-<e><p><l>mandate<s n="n"/></l><r>mandato<s n="n"/></r></p></e>
-<e><p><l>manifesto<s n="n"/></l><r>manifesto<s n="n"/></r></p></e>
-<e><p><l>mansion<s n="n"/></l><r>mansão<s n="n"/></r></p></e>
-<e><p><l>mass<s n="n"/></l><r>massa<s n="n"/></r></p></e>
-<e><p><l>matter<s n="n"/></l><r>matéria<s n="n"/></r></p></e>
-<e><p><l>mediation<s n="n"/></l><r>mediação<s n="n"/></r></p></e>
-<e><p><l>pope<s n="n"/></l><r>papa<s n="n"/></r></p></e>
-<e><p><l>proposition<s n="n"/></l><r>proposição<s n="n"/></r></p></e>
-<e><p><l>extra<b/>time<s n="n"/></l><r>prorrogação<s n="n"/></r></p></e>
-<e><p><l>province<s n="n"/></l><r>provincia<s n="n"/></r></p></e>
-<e><p><l>prodigy<s n="n"/></l><r>prodígio<s n="n"/></r></p></e>
-<e><p><l>father<s n="n"/></l><r>pai<s n="n"/></r></p></e>
+<e><p><l>km<s n="n"/></l><r>km<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>liberalism<s n="n"/></l><r>liberalismo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>anxiety<s n="n"/></l><r>nervosismo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mosquito<s n="n"/></l><r>mosquito<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mandate<s n="n"/></l><r>mandato<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>manifesto<s n="n"/></l><r>manifesto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>mansion<s n="n"/></l><r>mansão<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>mass<s n="n"/></l><r>massa<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>matter<s n="n"/></l><r>matéria<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>mediation<s n="n"/></l><r>mediação<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>pope<s n="n"/></l><r>papa<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>proposition<s n="n"/></l><r>proposição<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>extra<b/>time<s n="n"/></l><r>prorrogação<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>province<s n="n"/></l><r>provincia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>prodigy<s n="n"/></l><r>prodígio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>father<s n="n"/></l><r>pai<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>reelection<s n="n"/></l><r>reeleição<s n="n"/></r></p></e>
 <e><p><l>referendum<s n="n"/></l><r>referendo<s n="n"/></r></p></e>
 <e><p><l>register<s n="n"/></l><r>registro<s n="n"/></r></p></e>
