@@ -6245,15 +6245,20 @@
 <e><p><l>or<s n="cnjcoo"/></l><r>ou<s n="cnjcoo"/></r></p></e>
 
 <!-- Prepositions -->
+    <e r="LR"><p><l>'s<s n="gen"/></l><r></r></p></e>
     <e r="RL"><p><l>about<s n="pr"/></l><r>a<b/>respeito<b/>de<s n="pr"/></r></p></e>
-<e><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
-<e><p><l>above<s n="pr"/></l><r>acima<b/>de<s n="pr"/></r></p></e>
-<e><p><l>according<s n="pr"/></l><r>segundo<s n="pr"/></r></p></e>
-<e><p><l>according<b/>to<s n="pr"/></l><r>segundo<s n="pr"/></r></p></e>
-<e><p><l>after<s n="pr"/></l><r>depois<b/>de<s n="pr"/></r></p></e>
-<e><p><l>after<s n="pr"/></l><r>trás<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>according<s n="pr"/></l><r>segundo<s n="pr"/></r></p></e>
+    <e>  <p><l>according<b/>to<s n="pr"/></l><r>segundo<s n="pr"/></r></p></e>
+    <e><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
+    <e><p><l>above<s n="pr"/></l><r>acima<b/>de<s n="pr"/></r></p></e>
+    <e><p><l>after<s n="pr"/></l><r>depois<b/>de<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>after<s n="pr"/></l><r>trás<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>after<s n="pr"/></l><r>trás<b/>de<s n="pr"/></r></p></e>
+    <e>  <p><l>shortly<b/>after<s n="pr"/></l><r>pouco<b/>depois<b/>de<s n="pr"/></r></p></e>
+    <e>  <p><l>along<s n="pr"/></l><r>ao<b/>longo<b/>de<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>along<b/>with<s n="pr"/></l><r>junto<b/>com<s n="pr"/></r></p></e>
 <e><p><l>against<s n="pr"/></l><r>contra<s n="pr"/></r></p></e>
-<e><p><l>amid<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>amid<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
 <e><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
 <e><p><l>among<s n="pr"/></l><r>por<b/>entre<s n="pr"/></r></p></e>
 <e><p><l>amongst<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
