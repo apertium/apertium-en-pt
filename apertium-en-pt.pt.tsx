@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <tagger name="">
 	<tagset>
 		<def-label name="VTENERINFPS" closed="true">
@@ -378,16 +378,16 @@
 		</def-mult>
 		<def-mult name="PRITENERPRNENC" closed="true">
 			<sequence>
-				<tags-item lemma= "ter"  tags="vblex.pri"/>
+				<tags-item lemma="ter" tags="vblex.pri"/>
 				<label-item label="PRNENC"/>
 			</sequence>
 			<sequence>
-				<tags-item lemma= "ter"  tags="vblex.pri"/>
+				<tags-item lemma="ter" tags="vblex.pri"/>
 				<label-item label="PRNENC"/>
 				<label-item label="PRNENC"/>
 			</sequence>
 			<sequence>
-				<tags-item lemma= "ter"  tags="vblex.pri"/>
+				<tags-item lemma="ter" tags="vblex.pri"/>
 				<label-item label="PRNENC"/>
 				<label-item label="CUAVB"/>
 			</sequence>
