@@ -6906,12 +6906,13 @@
 <e><p><l>rooster<s n="n"/></l><r>galo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>goalkeeper<s n="n"/></l><r>goleiro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>indicator<s n="n"/></l><r>indicador<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>industry<s n="n"/></l><r>industria<s n="n"/></r></p></e>
+<e><p><l>industry<s n="n"/></l><r>indústria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>child<s n="n"/></l><r>infância<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>insanity<s n="n"/></l><r>insanidade<s n="n"/></r></p></e>
 <e><p><l>anger<s n="n"/></l><r>ira<s n="n"/></r></p></e>
 <e><p><l>kg<s n="n"/></l><r>kg<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>kilo<s n="n"/></l><r>kilo<s n="n"/></r></p></e>
+<e r="RL"><p><l>kilo<s n="n"/></l><r>kilo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>kilo<s n="n"/></l><r>quilo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>km<s n="n"/></l><r>km<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>liberalism<s n="n"/></l><r>liberalismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>anxiety<s n="n"/></l><r>nervosismo<s n="n"/><s n="m"/></r></p></e>
