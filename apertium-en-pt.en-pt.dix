@@ -148,9 +148,7 @@
     <e r="RL"><p><l>how<b/>much<s n="det"/><s n="itg"/><s n="sg"/></l><r>quanto<s n="det"/><s n="itg"/><s n="f"/><s n="sg"/></r></p></e>
     <e r="LR"><p><l>what<s n="det"/><s n="itg"/><s n="sp"/></l><r>que<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
     <e>  <p><l>which<s n="det"/><s n="itg"/><s n="sp"/></l><r>que<s n="det"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-    <e r="LR" c="MG: a tractar pel trànsfer"><p><l>whose<s n="det"/><s n="itg"/></l><r>de<b/>quem<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>
-	
-<e><p><l>no<s n="det"/><s n="ind"/></l><r>nenhum<s n="det"/><s n="ind"/><s n="GD"/></r></p></e>
+    <e r="LR" c="MG: a tractar pel trànsfer"><p><l>whose<s n="det"/><s n="itg"/></l><r>de<b/>quem<s n="det"/><s n="itg"/><s n="mf"/></r></p></e>	
     <e r="LR"><p><l>that<s n="det"/><s n="dem"/></l><r>aquele<s n="det"/><s n="dem"/><s n="GD"/></r></p></e>
     <e r="RL"><p><l>that<s n="det"/></l><r>aquele<s n="det"/></r></p></e>
     <e r="LR"><p><l>the<s n="det"/><s n="def"/><s n="sp"/></l><r>o<s n="det"/><s n="def"/><s n="GD"/><s n="ND"/></r></p></e>
@@ -6233,6 +6231,8 @@
 <e><p><l>who<s n="rel"/></l><r>que<s n="rel"/></r></p></e>
 <e><p><l>who<s n="rel"/><s n="an"/></l><r>quem<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
 <e><p><l>whom<s n="rel"/><s n="an"/></l><r>quem<s n="rel"/><s n="nn"/><s n="mf"/><s n="sp"/></r></p></e>
+
+<!-- cnjcoo -->
 <e><p><l>and<s n="cnjcoo"/></l><r>e<s n="cnjcoo"/></r></p></e>
 <e><p><l>but<s n="cnjcoo"/></l><r>contudo<s n="cnjcoo"/></r></p></e>
 <e><p><l>but<s n="cnjcoo"/></l><r>mas<s n="cnjcoo"/></r></p></e>
@@ -6243,6 +6243,8 @@
 <e><p><l>nor<s n="cnjcoo"/></l><r>nem<s n="cnjcoo"/></r></p></e>
 <e><p><l>or<s n="cnjcoo"/></l><r>nem<s n="cnjcoo"/></r></p></e>
 <e><p><l>or<s n="cnjcoo"/></l><r>ou<s n="cnjcoo"/></r></p></e>
+
+<!-- Prepositions -->
 <e><p><l>about<s n="pr"/></l><r>a<b/>respeito<b/>de<s n="pr"/></r></p></e>
 <e><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
 <e><p><l>above<s n="pr"/></l><r>acima<b/>de<s n="pr"/></r></p></e>
