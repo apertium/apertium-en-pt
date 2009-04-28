@@ -6908,8 +6908,8 @@
 <e><p><l>indicator<s n="n"/></l><r>indicador<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>industry<s n="n"/></l><r>indústria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>child<s n="n"/></l><r>infância<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>insanity<s n="n"/></l><r>insanidade<s n="n"/></r></p></e>
-<e><p><l>anger<s n="n"/></l><r>ira<s n="n"/></r></p></e>
+<e><p><l>insanity<s n="n"/></l><r>insanidade<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>anger<s n="n"/></l><r>ira<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>kg<s n="n"/></l><r>kg<s n="n"/><s n="m"/></r></p></e>
 <e r="RL"><p><l>kilo<s n="n"/></l><r>kilo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>kilo<s n="n"/></l><r>quilo<s n="n"/><s n="m"/></r></p></e>
@@ -6929,24 +6929,24 @@
 <e><p><l>province<s n="n"/></l><r>provincia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>prodigy<s n="n"/></l><r>prodígio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>father<s n="n"/></l><r>pai<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>reelection<s n="n"/></l><r>reeleição<s n="n"/></r></p></e>
-<e><p><l>referendum<s n="n"/></l><r>referendo<s n="n"/></r></p></e>
-<e><p><l>register<s n="n"/></l><r>registro<s n="n"/></r></p></e>
-<e><p><l>kingdom<s n="n"/></l><r>reino<s n="n"/></r></p></e>
-<e><p><l>novel<s n="n"/></l><r>romance<s n="n"/></r></p></e>
-<e><p><l>server<s n="n"/></l><r>servidor<s n="n"/></r></p></e>
-<e><p><l>significance<s n="n"/></l><r>significação<s n="n"/></r></p></e>
-<e><p><l>t-shirt<s n="n"/></l><r>t-shirt<s n="n"/></r></p></e>
-<e><p><l>table<s n="n"/></l><r>tabela<s n="n"/></r></p></e>
-<e><p><l>Serbian<s n="n"/></l><r>sérvio<s n="n"/></r></p></e>
-<e><p><l>taboo<s n="n"/></l><r>tabu<s n="n"/></r></p></e>
-<e><p><l>verdict<s n="n"/></l><r>veredicto<s n="n"/></r></p></e>
-<e><p><l>vertigo<s n="n"/></l><r>vertigem<s n="n"/></r></p></e>
-<e><p><l>revenge<s n="n"/></l><r>vingança<s n="n"/></r></p></e>
-<e><p><l>sunset<s n="n"/></l><r>véspera<s n="n"/></r></p></e>
-<e><p><l>rape<s n="n"/></l><r>violação<s n="n"/></r></p></e>
-<e><p><l>xenophobia<s n="n"/></l><r>xenofobia<s n="n"/></r></p></e>
-<e><p><l>referee<s n="n"/></l><r>árbitro<s n="n"/></r></p></e>
+<e><p><l>reelection<s n="n"/></l><r>reeleição<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>referendum<s n="n"/></l><r>referendo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>register<s n="n"/></l><r>registro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>kingdom<s n="n"/></l><r>reino<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>novel<s n="n"/></l><r>romance<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>server<s n="n"/></l><r>servidor<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>significance<s n="n"/></l><r>significação<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>t-shirt<s n="n"/></l><r>t-shirt<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>table<s n="n"/></l><r>tabela<s n="n"/><s n="m"/><s n="f"/></r></p></e>
+<e><p><l>Serbian<s n="n"/></l><r>sérvio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>taboo<s n="n"/></l><r>tabu<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>verdict<s n="n"/></l><r>veredicto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>vertigo<s n="n"/></l><r>vertigem<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>revenge<s n="n"/></l><r>vingança<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>sunset<s n="n"/></l><r>véspera<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>rape<s n="n"/></l><r>violação<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>xenophobia<s n="n"/></l><r>xenofobia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>referee<s n="n"/></l><r>árbitro<s n="n"/><s n="m"/></r></p></e>
 
   </section>
 </dictionary>
