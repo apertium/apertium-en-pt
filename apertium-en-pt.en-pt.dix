@@ -6245,7 +6245,7 @@
 <e><p><l>or<s n="cnjcoo"/></l><r>ou<s n="cnjcoo"/></r></p></e>
 
 <!-- Prepositions -->
-<e><p><l>about<s n="pr"/></l><r>a<b/>respeito<b/>de<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>about<s n="pr"/></l><r>a<b/>respeito<b/>de<s n="pr"/></r></p></e>
 <e><p><l>about<s n="pr"/></l><r>sobre<s n="pr"/></r></p></e>
 <e><p><l>above<s n="pr"/></l><r>acima<b/>de<s n="pr"/></r></p></e>
 <e><p><l>according<s n="pr"/></l><r>segundo<s n="pr"/></r></p></e>
@@ -6257,6 +6257,7 @@
 <e><p><l>among<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
 <e><p><l>among<s n="pr"/></l><r>por<b/>entre<s n="pr"/></r></p></e>
 <e><p><l>amongst<s n="pr"/></l><r>entre<s n="pr"/></r></p></e>
+    <e><p><l>apart<b/>from<s n="pr"/></l><r>além<b/>de<s n="pr"/></r></p></e>
 <e><p><l>as<s n="pr"/></l><r>como<s n="pr"/></r></p></e>
 <e><p><l>as<b/>a<s n="pr"/></l><r>como<s n="pr"/></r></p></e>
 <e><p><l>as<b/>a<s n="pr"/></l><r>a<b/>guisa<b/>de<s n="pr"/></r></p></e>
