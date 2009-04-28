@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <dictionary>
 	<alphabet/>
 
@@ -39,7 +39,7 @@
 				<i>@</i>
 			</e>
 			<e>
-				<i>«</i>
+				<i>Â«</i>
 			</e>
 			<e>
 				<i>-</i>
@@ -57,10 +57,10 @@
 				<i>`</i>
 			</e>
 			<e>
-				<i>±</i>
+				<i>Â±</i>
 			</e>
 			<e>
-				<i>­</i>
+				<i>Â­</i>
 			</e>
 			<e>
 				<i>$</i>
@@ -134,45 +134,45 @@
 			</e>
 		</pardef>
 		
-		<pardef n="à">
+		<pardef n="Ã ">
 			<e>
 				<p>
 					<l><a/>a<b/></l>
-					<r>à<b/></r>
+					<r>Ã <b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>a<b/></l>
-					<r>à<b/></r>
+					<r>Ã <b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>a</l>
-					<r>à</r>
+					<r>Ã </r>
 				</p>
 				<par n="caracter_general"/>
 			</e>
 		</pardef>
 		
-		<pardef n="às">
+		<pardef n="Ã s">
 			<e>
 				<p>
 					<l><a/>as<b/></l>
-					<r>às<b/></r>
+					<r>Ã s<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>as<b/></l>
-					<r>às<b/></r>
+					<r>Ã s<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>as</l>
-					<r>às</r>
+					<r>Ã s</r>
 				</p>
 				<par n="caracter_general"/>
 			</e>
@@ -415,76 +415,76 @@
 			<e>
 				<p>
 					<l><a/>aquele<b/></l>
-					<r>àquele<b/></r>
+					<r>Ã quele<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquele<b/></l>
-					<r>àquele<b/></r>
+					<r>Ã quele<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquele</l>
-					<r>àquele</r>
+					<r>Ã quele</r>
 				</p>
 				<par n="caracter_general"/>
 			</e>
 			<e>
 				<p>
 					<l><a/>aqueles<b/></l>
-					<r>àqueles<b/></r>
+					<r>Ã queles<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aqueles<b/></l>
-					<r>àqueles<b/></r>
+					<r>Ã queles<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aqueles</l>
-					<r>àqueles</r>
+					<r>Ã queles</r>
 				</p>
 				<par n="caracter_general"/>
 			</e>
 			<e>
 				<p>
 					<l><a/>aquela<b/></l>
-					<r>àquela<b/></r>
+					<r>Ã quela<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquela<b/></l>
-					<r>àquela<b/></r>
+					<r>Ã quela<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquela</l>
-					<r>àquela</r>
+					<r>Ã quela</r>
 				</p>
 				<par n="caracter_general"/>
 			</e>
 			<e>
 				<p>
 					<l><a/>aquelas<b/></l>
-					<r>àquelas<b/></r>
+					<r>Ã quelas<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquelas<b/></l>
-					<r>àquelas<b/></r>
+					<r>Ã quelas<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquelas</l>
-					<r>àquelas</r>
+					<r>Ã quelas</r>
 				</p>
 				<par n="caracter_general"/>
 			</e>
@@ -542,19 +542,19 @@
 			<e>
 				<p>
 					<l><a/>aquilo<b/></l>
-					<r>àquilo<b/></r>
+					<r>Ã quilo<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquilo<b/></l>
-					<r>àquilo<b/></r>
+					<r>Ã quilo<b/></r>
 				</p>
 			</e>
 			<e>
 				<p>
 					<l>aquilo</l>
-					<r>àquilo</r>
+					<r>Ã quilo</r>
 				</p>
 				<par n="caracter_general"/>
 			</e>
@@ -705,14 +705,14 @@
 				<l><a/>a<b/></l>
 				<r/>
 			</p>
-			<par n="à"/>
+			<par n="Ã "/>
 		</e>
 		<e>
 			<p>
 				<l><a/>a<b/></l>
 				<r/>
 			</p>
-			<par n="às"/>
+			<par n="Ã s"/>
 		</e>
 		<e>
 			<p>
