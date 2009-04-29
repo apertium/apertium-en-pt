@@ -678,64 +678,64 @@
 <e><p><l>attic<s n="n"/></l><r>cobertura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>attitude<s n="n"/></l><r>atitude<s n="n"/></r></p></e>
 <e><p><l>attorney<s n="n"/></l><r>advogado<s n="n"/></r></p></e>
-<e><p><l>attraction<s n="n"/></l><r>atração<s n="n"/></r></p></e>
+<e><p><l>attraction<s n="n"/></l><r>atração<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>auction<s n="n"/></l><r>leilão<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>audience<s n="n"/></l><r>audiência<s n="n"/></r></p></e>
-<e><p><l>auditorium<s n="n"/></l><r>auditório<s n="n"/></r></p></e>
+<e><p><l>audience<s n="n"/></l><r>audiência<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>auditorium<s n="n"/></l><r>auditório<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>aunt<s n="n"/></l><r>tio<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>author<s n="n"/></l><r>autor<s n="n"/></r></p></e>
-<e><p><l>authority<s n="n"/></l><r>autoridade<s n="n"/></r></p></e>
-<e><p><l>authority<s n="n"/></l><r>chefia<s n="n"/></r></p></e>
-<e><p><l>auto<s n="n"/></l><r>carro<s n="n"/></r></p></e>
-<e><p><l>autopsy<s n="n"/></l><r>autópsia<s n="n"/></r></p></e>
+<e><p><l>author<s n="n"/></l><r>autor<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>authority<s n="n"/></l><r>autoridade<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>authority<s n="n"/></l><r>chefia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>auto<s n="n"/></l><r>carro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>autopsy<s n="n"/></l><r>autópsia<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>autumn<s n="n"/></l><r>outono<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>avenue<s n="n"/></l><r>avenida<s n="n"/></r></p></e>
+<e><p><l>avenue<s n="n"/></l><r>avenida<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>average<s n="n"/></l><r>meia<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>average<s n="n"/></l><r>média<s n="n"/></r></p></e>
-<e><p><l>aversion<s n="n"/></l><r>aborrecimento<s n="n"/></r></p></e>
-<e><p><l>aversion<s n="n"/></l><r>aversão<s n="n"/></r></p></e>
-<e><p><l>aviation<s n="n"/></l><r>aviação<s n="n"/></r></p></e>
-<e><p><l>award<s n="n"/></l><r>prémio<s n="n"/></r></p></e>
+<e><p><l>average<s n="n"/></l><r>média<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>aversion<s n="n"/></l><r>aborrecimento<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>aversion<s n="n"/></l><r>aversão<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>aviation<s n="n"/></l><r>aviação<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>award<s n="n"/></l><r>prémio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>axe<s n="n"/></l><r>machado<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>axis<s n="n"/></l><r>eixo<s n="n"/></r></p></e>
-<e><p><l>baby<s n="n"/></l><r>criatura<s n="n"/></r></p></e>
+<e><p><l>axis<s n="n"/></l><r>eixo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>baby<s n="n"/></l><r>criatura<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>back<s n="n"/></l><r>costas<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>background<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
-<e><p><l>background<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
-<e><p><l>background<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="LR"><p><l>background<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="ND"/></r></p></e>
+<e r="RL"><p><l>background<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL"><p><l>background<s n="n"/></l><r>fundo<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
 <e><p><l>bacterium<s n="n"/></l><r>bactéria<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bag<s n="n"/></l><r>bolsa<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>baggage<s n="n"/></l><r>bagagem<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>balance<s n="n"/></l><r>equilíbrio<s n="n"/></r></p></e>
-<e><p><l>balance<s n="n"/></l><r>saldo<s n="n"/></r></p></e>
-<e><p><l>balance<s n="n"/></l><r>balanço<s n="n"/></r></p></e>
-<e><p><l>ball<s n="n"/></l><r>pelota<s n="n"/></r></p></e>
+<e><p><l>balance<s n="n"/></l><r>equilíbrio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>balance<s n="n"/></l><r>saldo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>balance<s n="n"/></l><r>balanço<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>ball<s n="n"/></l><r>pelota<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>balloon<s n="n"/></l><r>bola<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>ban<s n="n"/></l><r>proibição<s n="n"/></r></p></e>
-<e><p><l>band<s n="n"/></l><r>banda<s n="n"/></r></p></e>
-<e><p><l>bank<s n="n"/></l><r>banco<s n="n"/></r></p></e>
-<e><p><l>bank<s n="n"/></l><r>orla<s n="n"/></r></p></e>
-<e><p><l>banker<s n="n"/></l><r>banqueiro<s n="n"/></r></p></e>
+<e><p><l>ban<s n="n"/></l><r>proibição<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>band<s n="n"/></l><r>banda<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bank<s n="n"/></l><r>banco<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bank<s n="n"/></l><r>orla<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>banker<s n="n"/></l><r>banqueiro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>banner<s n="n"/></l><r>cartaz<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>banquet<s n="n"/></l><r>banquete<s n="n"/></r></p></e>
-<e><p><l>bar<s n="n"/></l><r>bar<s n="n"/></r></p></e>
-<e><p><l>bar<s n="n"/></l><r>barra<s n="n"/></r></p><																											/e>
-<e><p><l>bargain<s n="n"/></l><r>negócio<s n="n"/></r></p></e>
+<e><p><l>banquet<s n="n"/></l><r>banquete<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bar<s n="n"/></l><r>bar<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>bar<s n="n"/></l><r>barra<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bargain<s n="n"/></l><r>negócio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>barracks<s n="n"/></l><r>quartel<s n="n"/><s n="m"/></r></p></e>
-<e><p><l>barrier<s n="n"/></l><r>barreira<s n="n"/></r></p></e>
-<e><p><l>base<s n="n"/></l><r>base<s n="n"/></r></p></e>
-<e><p><l>baseball<s n="n"/></l><r>basebol<s n="n"/></r></p></e>
-<e><p><l>baseball<s n="n"/></l><r>beisebol<s n="n"/></r></p></e>
-<e><p><l>basilica<s n="n"/></l><r>basílica<s n="n"/></r></p></e>
-<e><p><l>basis<s n="n"/></l><r>base<s n="n"/></r></p></e>
-<e><p><l>basket<s n="n"/></l><r>cesta<s n="n"/></r></p></e>
-<e><p><l>basketball<s n="n"/></l><r>basquete<s n="n"/></r></p></e>
-<e><p><l>basketball<s n="n"/></l><r>basquetebol<s n="n"/></r></p></e>
-<e><p><l>batallion<s n="n"/></l><r>batalhão<s n="n"/></r></p></e>
-<e><p><l>battle<s n="n"/></l><r>batalha<s n="n"/></r></p></e>
-<e><p><l>bay<s n="n"/></l><r>baía<s n="n"/></r></p></e>
-<e><p><l>beach<s n="n"/></l><r>praia<s n="n"/></r></p></e>
-<e><p><l>beak<s n="n"/></l><r>bico<s n="n"/></r></p></e>
+<e><p><l>barrier<s n="n"/></l><r>barreira<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>base<s n="n"/></l><r>base<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>baseball<s n="n"/></l><r>basebol<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>baseball<s n="n"/></l><r>beisebol<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>basilica<s n="n"/></l><r>basílica<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>basis<s n="n"/></l><r>base<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>basket<s n="n"/></l><r>cesta<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>basketball<s n="n"/></l><r>basquete<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>basketball<s n="n"/></l><r>basquetebol<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>batallion<s n="n"/></l><r>batalhão<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>battle<s n="n"/></l><r>batalha<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>bay<s n="n"/></l><r>baía<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>beach<s n="n"/></l><r>praia<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>beak<s n="n"/></l><r>bico<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>beard<s n="n"/></l><r>barba<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>beauty<s n="n"/></l><r>beleza<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>bed<s n="n"/></l><r>cama<s n="n"/><s n="f"/></r></p></e>
