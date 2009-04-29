@@ -436,7 +436,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -491,7 +491,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -570,7 +570,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -592,7 +592,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="3">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -660,7 +660,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -758,7 +758,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -824,7 +824,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -929,7 +929,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -1002,7 +1002,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -1080,7 +1080,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -1189,7 +1189,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -1282,7 +1282,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
@@ -1361,7 +1361,7 @@
 	    <out>
 	      <lu>
 		<get-case-from pos="0">
-		  <lit v="el"/>
+		  <lit v="o"/>
 		</get-case-from>
 		<lit-tag v="det.def"/>
 		<var n="genero"/>
