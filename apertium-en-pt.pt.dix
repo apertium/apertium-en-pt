@@ -115569,6 +115569,14 @@
 <i>abuso</i>
 <par n="Leste__n"/>
 </e>
+<e lm="abuso de poder">
+<i>abuso</i>
+<par n="Leste__n"/>
+  <p>
+    <l><b/>de<b/>poder</l>
+    <r><g><b/>de<b/>poder</g></r>
+  </p>
+</e>
 <e lm="acampamento">
 <i>acampamento</i>
 <par n="Leste__n"/>

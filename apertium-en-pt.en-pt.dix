@@ -443,7 +443,7 @@
 <e><p><l>March<s n="n"/></l><r>março<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>May<s n="n"/></l><r>maio<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Monday<s n="n"/></l><r>segunda-feira<s n="n"/><s n="f"/></r></p></e>
-<e><p><l>NASA<s n="n"/><s n="acr"/></l><r>NASA<s n="n"/><s n="acr"/></r></p></e>
+<e><p><l>NASA<s n="n"/><s n="acr"/></l><r>NASA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
 <e><p><l>Nazism<s n="n"/></l><r>nazismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>November<s n="n"/></l><r>novembro<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>October<s n="n"/></l><r>outubro<s n="n"/><s n="m"/></r></p></e>
@@ -451,40 +451,35 @@
 <e><p><l>PNB<s n="n"/><s n="acr"/></l><r>PNV<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>PP<s n="n"/><s n="acr"/></l><r>PP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>PSC<s n="n"/><s n="acr"/></l><r>PSC<s n="n"/></r></p></e>
-<e><p><l>PSOE<s n="n"/><s n="acr"/></l><r>PSOE<s n="n"/></r></p></e>
-<e><p><l>Palestinian<s n="n"/></l><r>palestiniano<s n="n"/></r></p></e>
-<e><p><l>Palestinian<s n="n"/></l><r>palestino<s n="n"/></r></p></e>
-<e><p><l>Protestant<s n="n"/></l><r>protestante<s n="n"/></r></p></e>
-<e><p><l>Russian<s n="n"/></l><r>russo<s n="n"/></r></p></e>
-<e><p><l>Saturday<s n="n"/></l><r>sábado<s n="n"/></r></p></e>
-<e><p><l>Scottish<s n="n"/></l><r>escocês<s n="n"/></r></p></e>
-<e><p><l>September<s n="n"/></l><r>setembro<s n="n"/></r></p></e>
-<e><p><l>Spaniard<s n="n"/></l><r>castelhano<s n="n"/></r></p></e>
-<e><p><l>Spaniard<s n="n"/></l><r>espanhol<s n="n"/></r></p></e>
-<e><p><l>Sunday<s n="n"/></l><r>domingo<s n="n"/></r></p></e>
-<e><p><l>Swiss<s n="n"/></l><r>suíço<s n="n"/></r></p></e>
-<e><p><l>TV<s n="n"/><s n="acr"/></l><r>televisão<s n="n"/></r></p></e>
-<e><p><l>Thursday<s n="n"/></l><r>quinta-feira<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-<e><p><l>Thursday<s n="n"/><s n="ND"/></l><r>quinta-feira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>Thursday<s n="n"/><s n="ND"/></l><r>quinta-feira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Tuesday<s n="n"/></l><r>terça-feira<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-<e><p><l>Tuesday<s n="n"/><s n="ND"/></l><r>terça-feira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>Tuesday<s n="n"/><s n="ND"/></l><r>terça-feira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>Turkish<s n="n"/></l><r>turco<s n="n"/></r></p></e>
-<e><p><l>U.N.<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/></r></p></e>
-<e><p><l>UN<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/></r></p></e>
-<e><p><l>Wednesday<s n="n"/></l><r>quarta-feira<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-<e><p><l>Wednesday<s n="n"/><s n="ND"/></l><r>quarta-feira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>Wednesday<s n="n"/><s n="ND"/></l><r>quarta-feira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
-<e><p><l>ability<s n="n"/></l><r>habilidade<s n="n"/></r></p></e>
-<e><p><l>abortion<s n="n"/></l><r>aborto<s n="n"/></r></p></e>
-<e><p><l>absence<s n="n"/></l><r>ausência<s n="n"/></r></p></e>
-<e><p><l>absenteeism<s n="n"/></l><r>absentismo<s n="n"/></r></p></e>
-<e><p><l>abstention<s n="n"/></l><r>abstenção<s n="n"/></r></p></e>
-<e><p><l>abundance<s n="n"/></l><r>abundância<s n="n"/></r></p></e>
-<e><p><l>abundance<s n="n"/></l><r>fartura<s n="n"/></r></p></e>
-<e><p><l>abuse<s n="n"/></l><r>abuso<s n="n"/></r></p></e>
-<e><p><l>abyss<s n="n"/></l><r>abismo<s n="n"/></r></p></e>
+<e><p><l>PSOE<s n="n"/><s n="acr"/></l><r>PSOE<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e><p><l>Palestinian<s n="n"/></l><r>palestiniano<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Palestinian<s n="n"/></l><r>palestino<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Protestant<s n="n"/></l><r>protestante<s n="n"/><s n="mf"/></r></p></e>
+<e><p><l>Russian<s n="n"/></l><r>russo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Saturday<s n="n"/></l><r>sábado<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Scottish<s n="n"/></l><r>escocês<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>September<s n="n"/></l><r>setembro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Spaniard<s n="n"/></l><r>castelhano<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Spaniard<s n="n"/></l><r>espanhol<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Sunday<s n="n"/></l><r>domingo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Swiss<s n="n"/></l><r>suíço<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>TV<s n="n"/><s n="acr"/></l><r>televisão<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>Thursday<s n="n"/></l><r>quinta-feira<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>Tuesday<s n="n"/></l><r>terça-feira<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>Turkish<s n="n"/></l><r>turco<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>U.N.<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e r="LR"><p><l>UN<s n="n"/><s n="acr"/></l><r>ONU<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e><p><l>Wednesday<s n="n"/></l><r>quarta-feira<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>ability<s n="n"/></l><r>habilidade<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>abortion<s n="n"/></l><r>aborto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>absence<s n="n"/></l><r>ausência<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>absenteeism<s n="n"/></l><r>absentismo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>abstention<s n="n"/></l><r>abstenção<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>abundance<s n="n"/></l><r>abundância<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>abundance<s n="n"/></l><r>fartura<s n="n"/><s n="f"/></r></p></e>
+<e><p><l>abuse<s n="n"/></l><r>abuso<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>abuse<g><b/>of<b/>power</g><s n="n"/></l><r>abuso<g><b/>de<b/>poder</g><s n="n"/><s n="m"/></r></p></e>
+<e><p><l>abyss<s n="n"/></l><r>abismo<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>acceleration<s n="n"/></l><r>aceleração<s n="n"/></r></p></e>
 <e><p><l>accent<s n="n"/></l><r>sotaque<s n="n"/></r></p></e>
 <e><p><l>accent<s n="n"/></l><r>acento<s n="n"/></r></p></e>
