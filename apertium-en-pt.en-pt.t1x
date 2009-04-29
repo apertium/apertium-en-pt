@@ -5015,7 +5015,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b/>
 		<lu>
-		  <lit v="el"/>
+		  <lit v="o"/>
 		  <lit-tag v="det.def"/>
 		  <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 		  <lit-tag v="pl"/>
@@ -5081,7 +5081,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</lu>
 		<b/>
 		<lu>
-		  <lit v="el"/>
+		  <lit v="o"/>
 		  <lit-tag v="det.def"/>
 		  <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 		  <lit-tag v="pl"/>
@@ -11083,7 +11083,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="o"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -11130,7 +11130,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="o"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -11300,7 +11300,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="o"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -11365,7 +11365,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
+	      <lit v="o"/><!--De moment hi posarem article, potser no sempre és correcte, estudiar-ho. -->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -12303,7 +12303,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="3" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -12424,7 +12424,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="4" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -12514,7 +12514,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -12649,7 +12649,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -12793,7 +12793,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -12942,7 +12942,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -13105,7 +13105,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="4" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -13125,7 +13125,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </lu>
 	    <b/>
 	    <lu>
-	      <lit v="el"/><!-s-Està bé posar l'article davant el primer nom? -s->
+	      <lit v="o"/><!-s-Està bé posar l'article davant el primer nom? -s->
 	      <lit-tag v="det.def"/>
 	      <var n="genere"/>
 	      <var n="nombre"/>
@@ -13199,7 +13199,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="4" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -13295,7 +13295,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="5" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="2"/>
@@ -13536,7 +13536,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><clip pos="5" side="tl" part="nbr"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/>
+	      <lit v="o"/>
 	      <lit-tag v="det.def.3.4"/>
 	    </lu>
 	    <b pos="1"/>
@@ -16129,7 +16129,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/>
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
@@ -16237,7 +16237,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>   
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/>
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
@@ -16362,7 +16362,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/>
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
@@ -16488,7 +16488,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>   
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/>
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
@@ -16654,7 +16654,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>   
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/>
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
@@ -16783,7 +16783,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>   
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/>
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
@@ -16908,7 +16908,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>  
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/> 
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
@@ -17047,7 +17047,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	      <tag><var n="nbr_chunk"/></tag>
 	    </tags>
 	    <lu>   
-	      <lit v="el"/> 
+	      <lit v="o"/> 
 	      <lit-tag v="det.def"/>
 	      <clip pos="1" side="tl" part="gen_sense_mf" link-to="3"/>
 	      <clip pos="1" side="tl" part="gen_mf"/>
