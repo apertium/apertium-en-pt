@@ -408,52 +408,48 @@
 <e><p><l>Xavier<s n="np"/></l><r>Xavier<s n="np"/></r></p></e>
 <e><p><l>Yugoslavia<s n="np"/><s n="loc"/></l><r>Iugoslávia<s n="np"/></r></p></e>
 <e><p><l>Ángel<s n="np"/></l><r>Ángel<s n="np"/></r></p></e>
-<e><p><l>American<s n="n"/></l><r>americano<s n="n"/></r></p></e>
-<e><p><l>April<s n="n"/></l><r>abril<s n="n"/></r></p></e>
-<e><p><l>Asian<s n="n"/></l><r>asiático<s n="n"/></r></p></e>
-<e><p><l>August<s n="n"/></l><r>agosto<s n="n"/></r></p></e>
-<e><p><l>BBC<s n="n"/><s n="acr"/></l><r>BBC<s n="n"/></r></p></e>
-<e><p><l>British<s n="n"/></l><r>britânico<s n="n"/></r></p></e>
-<e><p><l>CD<s n="n"/><s n="acr"/></l><r>CD<s n="n"/></r></p></e>
+<e><p><l>American<s n="n"/></l><r>americano<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>April<s n="n"/></l><r>abril<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Asian<s n="n"/></l><r>asiático<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>August<s n="n"/></l><r>agosto<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>BBC<s n="n"/><s n="acr"/></l><r>BBC<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e><p><l>British<s n="n"/></l><r>britânico<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>CD<s n="n"/><s n="acr"/></l><r>CD<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>Canadian<s n="n"/></l><r>canadense<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>Catalan<s n="n"/></l><r>catalão<s n="n"/></r></p></e>
-<e><p><l>Christian<s n="n"/></l><r>cristão<s n="n"/></r></p></e>
+<e><p><l>Catalan<s n="n"/></l><r>catalão<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Christian<s n="n"/></l><r>cristão<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>CiU<s n="n"/><s n="acr"/></l><r>CiU<s n="n"/></r></p></e>
-<e><p><l>December<s n="n"/></l><r>dezembro<s n="n"/></r></p></e>
-<e><p><l>Dutch<s n="n"/></l><r>holandês<s n="n"/></r></p></e>
+<e><p><l>December<s n="n"/></l><r>dezembro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Dutch<s n="n"/></l><r>holandês<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>ERC<s n="n"/><s n="acr"/></l><r>ERC<s n="n"/></r></p></e>
-<e><p><l>ETA<s n="n"/><s n="acr"/></l><r>ETA<s n="n"/></r></p></e>
-<e><p><l>English<s n="n"/></l><r>inglês<s n="n"/></r></p></e>
-<e><p><l>European<s n="n"/></l><r>europeu<s n="n"/></r></p></e>
-<e><p><l>FBI<s n="n"/><s n="acr"/></l><r>FBI<s n="n"/></r></p></e>
-<e><p><l>February<s n="n"/></l><r>fevereiro<s n="n"/></r></p></e>
-<e><p><l>French<s n="n"/></l><r>francês<s n="n"/></r></p></e>
-<e><p><l>Friday<s n="n"/></l><r>sexta-feira<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-<e><p><l>Friday<s n="n"/><s n="ND"/></l><r>sexta-feira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>Friday<s n="n"/><s n="ND"/></l><r>sexta-feira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>ETA<s n="n"/><s n="acr"/></l><r>ETA<s n="n"/><s n="acr"/><s n="f"/></r></p></e>
+<e><p><l>English<s n="n"/></l><r>inglês<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>European<s n="n"/></l><r>europeu<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>FBI<s n="n"/><s n="acr"/></l><r>FBI<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e><p><l>February<s n="n"/></l><r>fevereiro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>French<s n="n"/></l><r>francês<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Friday<s n="n"/></l><r>sexta-feira<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>GDP<s n="n"/><s n="acr"/></l><r>PIB<s n="n"/></r></p></e>
-<e><p><l>German<s n="n"/></l><r>alemão<s n="n"/></r></p></e>
-<e><p><l>Irish<s n="n"/></l><r>irlandês<s n="n"/></r></p></e>
+<e><p><l>German<s n="n"/></l><r>alemão<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Irish<s n="n"/></l><r>irlandês<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>Israeli<s n="n"/></l><r>israelense<s n="n"/><s n="mf"/></r></p></e>
-<e><p><l>Italian<s n="n"/></l><r>italiano<s n="n"/></r></p></e>
-<e><p><l>January<s n="n"/></l><r>janeiro<s n="n"/></r></p></e>
-<e><p><l>Japanese<s n="n"/></l><r>japonês<s n="n"/></r></p></e>
-<e><p><l>July<s n="n"/></l><r>julho<s n="n"/></r></p></e>
-<e><p><l>June<s n="n"/></l><r>junho<s n="n"/></r></p></e>
-<e><p><l>Korean<s n="n"/></l><r>coreano<s n="n"/></r></p></e>
-<e><p><l>Latin<s n="n"/></l><r>latino<s n="n"/></r></p></e>
-<e><p><l>March<s n="n"/></l><r>março<s n="n"/></r></p></e>
-<e><p><l>May<s n="n"/></l><r>maio<s n="n"/></r></p></e>
-<e><p><l>Monday<s n="n"/></l><r>segunda-feira<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
-<e><p><l>Monday<s n="n"/><s n="ND"/></l><r>segunda-feira<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
-<e><p><l>Monday<s n="n"/><s n="ND"/></l><r>segunda-feira<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+<e><p><l>Italian<s n="n"/></l><r>italiano<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>January<s n="n"/></l><r>janeiro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Japanese<s n="n"/></l><r>japonês<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>July<s n="n"/></l><r>julho<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>June<s n="n"/></l><r>junho<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Korean<s n="n"/></l><r>coreano<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Latin<s n="n"/></l><r>latino<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>March<s n="n"/></l><r>março<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>May<s n="n"/></l><r>maio<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>Monday<s n="n"/></l><r>segunda-feira<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>NASA<s n="n"/><s n="acr"/></l><r>NASA<s n="n"/><s n="acr"/></r></p></e>
-<e><p><l>Nazism<s n="n"/></l><r>nazismo<s n="n"/></r></p></e>
-<e><p><l>November<s n="n"/></l><r>novembro<s n="n"/></r></p></e>
-<e><p><l>October<s n="n"/></l><r>outubro<s n="n"/></r></p></e>
-<e><p><l>PC<s n="n"/><s n="acr"/></l><r>PC<s n="n"/></r></p></e>
-<e><p><l>PNB<s n="n"/><s n="acr"/></l><r>PNV<s n="n"/></r></p></e>
-<e><p><l>PP<s n="n"/><s n="acr"/></l><r>PP<s n="n"/></r></p></e>
+<e><p><l>Nazism<s n="n"/></l><r>nazismo<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>November<s n="n"/></l><r>novembro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>October<s n="n"/></l><r>outubro<s n="n"/><s n="m"/></r></p></e>
+<e><p><l>PC<s n="n"/><s n="acr"/></l><r>PC<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e><p><l>PNB<s n="n"/><s n="acr"/></l><r>PNV<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
+<e><p><l>PP<s n="n"/><s n="acr"/></l><r>PP<s n="n"/><s n="acr"/><s n="m"/></r></p></e>
 <e><p><l>PSC<s n="n"/><s n="acr"/></l><r>PSC<s n="n"/></r></p></e>
 <e><p><l>PSOE<s n="n"/><s n="acr"/></l><r>PSOE<s n="n"/></r></p></e>
 <e><p><l>Palestinian<s n="n"/></l><r>palestiniano<s n="n"/></r></p></e>
@@ -1404,7 +1400,7 @@
 <e><p><l>document<s n="n"/></l><r>documento<s n="n"/></r></p></e>
 <e><p><l>documentary<s n="n"/></l><r>documental<s n="n"/></r></p></e>
 <e><p><l>documentation<s n="n"/></l><r>documentação<s n="n"/></r></p></e>
-<e><p><l>dog<s n="n"/></l><r>cão<s n="n"/></r></p></e>
+<e><p><l>dog<s n="n"/></l><r>cão<s n="n"/><s n="m"/></r></p></e>
 <e><p><l>doll<s n="n"/></l><r>boneco<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dollar<s n="n"/></l><r>dólar<s n="n"/></r></p></e>
 <e><p><l>domain<s n="n"/></l><r>âmbito<s n="n"/></r></p></e>
