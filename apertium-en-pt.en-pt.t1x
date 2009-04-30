@@ -4062,11 +4062,11 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      </test>
 	      <let>
 		<var n="lema_SV"/>
-		<lit v="verbcj_perif"/>
+		<lit v="verbcj"/>
 	      </let>
 	      <let>
 		<var n="temps_chunk"/>
-		<lit-tag v="ifip"/>
+		<lit-tag v="ifi"/>
 	      </let>
 	      <let>
 		<var n="pers_chunk"/>
@@ -4079,15 +4079,11 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      <let>
 		<var n="verbfinal"/>
 		<concat>
-		  <lit v="ir"/>
-
-		  <lit-tag v="vaux"/>
-		  <lit-tag v="4"/>
-		  <lit-tag v="5"/>
-		  <lit v="$ ^"/>
 		  <clip pos="1" side="tl" part="lemh"/>
 		  <clip pos="1" side="tl" part="a_verb"/>
-		  <lit-tag v="inf"/>
+		  <lit-tag v="3"/>
+		  <lit-tag v="4"/>
+		  <lit-tag v="5"/>
 		  <clip pos="1" side="tl" part="lemq"/>
 		</concat>
 	      </let>
@@ -4107,11 +4103,11 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      </test>
 	      <let>
 		<var n="lema_SV"/>
-		<lit v="verbcj_perif"/>
+		<lit v="verbcj"/>
 	      </let>
 	      <let>
 		<var n="temps_chunk"/>
-		<lit-tag v="ifip"/>
+		<lit-tag v="ifi"/>
 	      </let>
 	      <let>
 		<var n="pers_chunk"/>
@@ -4124,15 +4120,11 @@ No es crea mlu, per a poder fer canvis de posició en el t3x. En el t3x es crea 
 	      <let>
 		<var n="verbfinal"/>
 		<concat>
-		  <lit v="ir"/>
-
-		  <lit-tag v="vaux"/>
-		  <lit-tag v="4"/>
-		  <lit-tag v="5"/>
-		  <lit v="$ ^"/>
 		  <clip pos="1" side="tl" part="lemh"/>
 		  <clip pos="1" side="tl" part="a_verb"/>
-		  <lit-tag v="inf"/>
+		  <lit-tag v="3"/>
+		  <lit-tag v="4"/>
+		  <lit-tag v="5"/>
 		  <clip pos="1" side="tl" part="lemq"/>
 		</concat>
 	      </let>
@@ -4382,11 +4374,11 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 		</test>
 		<let>
 		  <var n="lema_SV"/>
-		  <lit v="verbcj_perif"/>
+		  <lit v="verbcj"/>
 		</let>
 		<let>
 		  <var n="temps_chunk"/>
-		  <lit-tag v="ifip"/>
+		  <lit-tag v="ifi"/>
 		</let>
 		<let>
 		  <var n="pers_chunk"/>
@@ -4934,7 +4926,7 @@ El resultat és una sola forma lèxica (vindré) (excepte en el cas 'I did come'
 	    </test>
 	    <let>
 	      <var n="temps_chunk"/>
-	      <lit-tag v="ifip"/>
+	      <lit-tag v="ifi"/>
 	    </let>
 	    <let>
 	      <var n="pers_chunk"/>
