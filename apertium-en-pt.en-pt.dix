@@ -1388,7 +1388,9 @@
 <e><p><l>document<s n="n"/></l><r>documento<s n="n"/></r></p></e>
 <e><p><l>documentary<s n="n"/></l><r>documental<s n="n"/></r></p></e>
 <e><p><l>documentation<s n="n"/></l><r>documentação<s n="n"/></r></p></e>
-<e><p><l>dog<s n="n"/></l><r>cão<s n="n"/><s n="m"/></r></p></e>
+<e r="LR"><p><l>dog<s n="n"/></l><r>cão<s n="n"/><s n="GD"/></r></p></e>
+<e r="RL"><p><l>dog<s n="n"/></l><r>cão<s n="n"/><s n="m"/></r></p></e>
+<e r="RL"><p><l>dog<s n="n"/></l><r>cão<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>doll<s n="n"/></l><r>boneco<s n="n"/><s n="f"/></r></p></e>
 <e><p><l>dollar<s n="n"/></l><r>dólar<s n="n"/></r></p></e>
 <e><p><l>domain<s n="n"/></l><r>âmbito<s n="n"/></r></p></e>
