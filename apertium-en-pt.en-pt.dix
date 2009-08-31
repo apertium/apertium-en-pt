@@ -5866,7 +5866,7 @@
 <e><p><l>sell<s n="vblex"/></l><r>vender<s n="vblex"/></r></p></e>
 <e><p><l>send<s n="vblex"/></l><r>enviar<s n="vblex"/></r></p></e>
 <e><p><l>send<g><b/>back</g><s n="vblex"/><s n="sep"/></l><r>voltar<s n="vblex"/></r></p></e>
-<e><p><l>send<g><b/>in</g><s n="vblex"/></l><r>enviar<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>send<g><b/>in</g><s n="vblex"/></l><r>enviar<s n="vblex"/></r></p></e>
 <e><p><l>sense<s n="vblex"/></l><r>notar<s n="vblex"/></r></p></e>
 <e><p><l>sense<s n="vblex"/></l><r>reparar<s n="vblex"/></r></p></e>
 <e><p><l>sentence<s n="vblex"/></l><r>sentenciar<s n="vblex"/></r></p></e>
