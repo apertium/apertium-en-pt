@@ -5804,7 +5804,7 @@
 <e><p><l>require<s n="vblex"/></l><r>requerer<s n="vblex"/></r></p></e>
 <e><p><l>rescue<s n="vblex"/></l><r>resgatar<s n="vblex"/></r></p></e>
 <e><p><l>research<s n="vblex"/></l><r>investigar<s n="vblex"/></r></p></e>
-<e><p><l>research<s n="vblex"/></l><r>pesquisar<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>research<s n="vblex"/></l><r>pesquisar<s n="vblex"/></r></p></e>
 <e><p><l>reserve<s n="vblex"/></l><r>reservar<s n="vblex"/></r></p></e>
 <e><p><l>resign<s n="vblex"/></l><r>demitir<s n="vblex"/></r></p></e>
 <e><p><l>resist<s n="vblex"/></l><r>resistir<s n="vblex"/></r></p></e>
@@ -6529,10 +6529,10 @@
 <e><p><l>in<b/>exchange<s n="adv"/></l><r>em<b/>troca<s n="adv"/></r></p></e>
 <e><p><l>in<b/>fact<s n="adv"/></l><r>de<b/>fato<s n="adv"/></r></p></e>
 <e><p><l>in<b/>fairness<s n="adv"/></l><r>sinceramente<s n="adv"/></r></p></e>
-<e><p><l>in<b/>front<s n="adv"/></l><r>ante<s n="adv"/></r></p></e>
-<e><p><l>in<b/>front<s n="adv"/></l><r>frente<s n="adv"/></r></p></e>
-<e><p><l>in<b/>front<s n="adv"/></l><r>defronte<s n="adv"/></r></p></e>
-<e><p><l>in<b/>front<s n="adv"/></l><r>diante<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>front<s n="adv"/></l><r>ante<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>front<s n="adv"/></l><r>frente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>front<s n="adv"/></l><r>defronte<s n="adv"/></r></p></e>
+<e r="RL"><p><l>in<b/>front<s n="adv"/></l><r>diante<s n="adv"/></r></p></e>
 <e><p><l>in<b/>front<s n="adv"/></l><r>em<b/>frente<s n="adv"/></r></p></e>
 <e><p><l>in<b/>kind<s n="adv"/></l><r>amavelmente<s n="adv"/></r></p></e>
 <e><p><l>in<b/>passing<s n="adv"/></l><r>de<b/>passagem<s n="adv"/></r></p></e>
@@ -6557,7 +6557,7 @@
 <e><p><l>indeed<s n="adv"/></l><r>de<b/>fato<s n="adv"/></r></p></e>
 <e><p><l>independently<s n="adv"/></l><r>independentemente<s n="adv"/></r></p></e>
 <e><p><l>indirectly<s n="adv"/></l><r>indirectamente<s n="adv"/></r></p></e>
-<e><p><l>indirectly<s n="adv"/></l><r>indiretamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>indirectly<s n="adv"/></l><r>indiretamente<s n="adv"/></r></p></e>
 <e><p><l>indiscriminately<s n="adv"/></l><r>a<b/>torto<b/>e<b/>a<b/>direito<s n="adv"/></r></p></e>
 <e><p><l>indistinctly<s n="adv"/></l><r>indistintamente<s n="adv"/></r></p></e>
 <e><p><l>individually<s n="adv"/></l><r>individualmente<s n="adv"/></r></p></e>
@@ -6569,7 +6569,7 @@
 <e><p><l>into<b/>the<b/>bargain<s n="adv"/></l><r>ademais<s n="adv"/></r></p></e>
 <e><p><l>inwardly<s n="adv"/></l><r>interiormente<s n="adv"/></r></p></e>
 <e><p><l>jointly<s n="adv"/></l><r>juntamente<s n="adv"/></r></p></e>
-<e><p><l>jointly<s n="adv"/></l><r>conjuntamente<s n="adv"/></r></p></e>
+<e r="RL"><p><l>jointly<s n="adv"/></l><r>conjuntamente<s n="adv"/></r></p></e>
 <e><p><l>just<s n="adv"/></l><r>exactamente<s n="adv"/></r></p></e>
 <e><p><l>just<s n="adv"/></l><r>justo<s n="adv"/></r></p></e>
 <e><p><l>just<s n="adv"/></l><r>só<s n="adv"/></r></p></e>
