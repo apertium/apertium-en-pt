@@ -1,0 +1,16 @@
+/INSTALL
+/Makefile
+/Makefile.in
+/aclocal.m4
+/apertium-en-pt.en.dixtmp1
+/autom4te.cache
+/config
+/config.in
+/config.log
+/config.status
+/configure
+/en-pt.automorf.bin
+/install-sh
+/missing
+/pt-en.automorf.bin
+/stamp-h1
