@@ -23,7 +23,8 @@ $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).metadix $(BASENAME).$(LANG1).acx
 
 $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
+	xsltproc translate-to-default-equivalent.xsl $(BASENAME).$(PREFIX1).dix > $(PREFIX1).autobiltmp.dix
+	lt-comp lr $(PREFIX1).autobiltmp.dix $@
 
 $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
@@ -40,7 +41,8 @@ $(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix $(BASENAME).$(LANG2).acx
 
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	lt-comp rl $(BASENAME).$(PREFIX1).dix $@
+	xsltproc translate-to-default-equivalent.xsl $(BASENAME).$(PREFIX1).dix > $(PREFIX2).autobiltmp.dix
+	lt-comp rl $(PREFIX2).autobiltmp.dix $@
 
 $(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).metadix
 	@xsltproc buscaPar.xsl apertium-en-pt.en.metadix | uniq > tmp2gen.xsl 	 
@@ -54,34 +56,6 @@ $(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG1).dix
 	lt-comp lr $(BASENAME).post-$(LANG1).dix $@
 
-$(BASENAME).$(LANG1)-lextor.dix: $(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	apertium-gen-lextormono rl $(BASENAME).$(PREFIX1).dix $@
-
-$(BASENAME).$(LANG2)-lextor.dix: $(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	apertium-gen-lextormono lr $(BASENAME).$(PREFIX1).dix $@
-
-$(PREFIX1).lextormono.bin: $(BASENAME).$(LANG1)-lextor.dix
-	lt-comp lr $(BASENAME).$(LANG1)-lextor.dix $@
-
-$(PREFIX2).lextormono.bin: $(BASENAME).$(LANG2)-lextor.dix
-	lt-comp lr $(BASENAME).$(LANG2)-lextor.dix $@
-
-
-$(BASENAME).$(PREFIX1)-lextor.dix: $(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	apertium-gen-lextorbil rl $(BASENAME).$(PREFIX1).dix $@
-
-$(BASENAME).$(PREFIX2)-lextor.dix: $(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	apertium-gen-lextorbil lr $(BASENAME).$(PREFIX1).dix $@
-
-$(PREFIX1).lextorbil.bin: $(BASENAME).$(PREFIX1)-lextor.dix
-	lt-comp lr $(BASENAME).$(PREFIX1)-lextor.dix $@
-
-$(PREFIX2).lextorbil.bin: $(BASENAME).$(PREFIX2)-lextor.dix
-	lt-comp lr $(BASENAME).$(PREFIX2)-lextor.dix $@
 
 $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
@@ -113,11 +87,10 @@ EXTRA_DIST=$(BASENAME).$(LANG1).metadix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).tsx \
 	   $(PREFIX1).prob $(PREFIX2).prob \
 	   buscaPar.xsl principal.xsl apertium-en-ca.en.metadix \
-	   $(PREFIX1).lextor $(PREFIX2).lextor \
 	   $(PREFIX1)-supervised.make $(PREFIX1)-unsupervised.make \
 	   $(PREFIX2)-supervised.make $(PREFIX2)-unsupervised.make \
 	   $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README \
-	   lextor-data/README lextor.make translate-to-default-equivalent.xsl \
+	   translate-to-default-equivalent.xsl \
 	   $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
 	   $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t1x \
 	   $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x \
@@ -129,8 +102,6 @@ apertium_en_pt_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 		    $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
 		    $(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
 		    $(PREFIX1).prob $(PREFIX2).prob \
-		    $(PREFIX1).lextormono.bin $(PREFIX2).lextormono.bin \
-		    $(PREFIX1).lextorbil.bin $(PREFIX2).lextorbil.bin \
 		    $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
 		    $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
 		    $(PREFIX1).mode $(PREFIX2).mode $(PREFIX1)-multi.mode $(PREFIX2)-multi.mode
