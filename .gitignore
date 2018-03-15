@@ -17,3 +17,5 @@
 *.bin
 en-pt.autobiltmp.dix
 pt-en.autobiltmp.dix
+modes/
+*.mode
