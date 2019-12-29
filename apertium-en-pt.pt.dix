@@ -3,55 +3,55 @@
   <alphabet>ÀÁÂÃÄÇÈÉÊËÌÍÎÏÑÒÓÔÕÖÙÚÛÜàáâãäçèéêëìíîïñòóôõöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz</alphabet>
   <sdefs>
     <sdef n="acr"        c="Acronym"/>
-    <sdef n="predet"        c="Pre determiner"/>
-    <sdef n="detnt"        c="Neuter determiner"/>
+    <sdef n="predet"     c="Pre determiner"/>
+    <sdef n="detnt"      c="Neuter determiner"/>
     <sdef n="loc"        c="Locative"/>
     <sdef n="ant"        c="Anthroponym"/>
-    <sdef n="al"        c="Altres"/>
+    <sdef n="al"         c="Altres"/>
     <sdef n="atn"        c="Atónico"/>
     <sdef n="enc"        c="Enclitic"/>
     <sdef n="pro"        c="Proclitic"/>
-    <sdef n="ND"        c="Number to be determined"/>
-    <sdef n="GD"        c="Gender to be determined"/>
-    <sdef n="tn"        c="Tónico"/>
-    <sdef n="n"        c="Noun"/>
-    <sdef n="np"        c="Proper noun"/>
+    <sdef n="ND"         c="Number to be determined"/>
+    <sdef n="GD"         c="Gender to be determined"/>
+    <sdef n="tn"         c="Tónico"/>
+    <sdef n="n"          c="Noun"/>
+    <sdef n="np"         c="Proper noun"/>
     <sdef n="adj"        c="Adjective"/>
-    <sdef n="f"        c="Feminine"/>
-    <sdef n="m"        c="Masculine"/>
-    <sdef n="mf"        c="Masculine or feminine"/>
-    <sdef n="sg"        c="Singular"/>
-    <sdef n="pl"        c="Plural"/>
+    <sdef n="f"          c="Feminine"/>
+    <sdef n="m"          c="Masculine"/>
+    <sdef n="mf"         c="Masculine or feminine"/>
+    <sdef n="sg"         c="Singular"/>
+    <sdef n="pl"         c="Plural"/>
     <sdef n="adv"        c="Adverb"/>
-    <sdef n="preadv"        c="Pre-adverb"/>
-    <sdef n="pr"        c="Preposition"/>
+    <sdef n="preadv"     c="Pre-adverb"/>
+    <sdef n="pr"         c="Preposition"/>
     <sdef n="prn"        c="Pronoun"/>
     <sdef n="rel"        c="Relative"/>
-    <sdef n="nn"        c="Inanimate"/>
-    <sdef n="an"        c="Animate or inanimate "/>
-    <sdef n="aa"        c="Animate"//>
+    <sdef n="nn"         c="Inanimate"/>
+    <sdef n="an"         c="Animate or inanimate "/>
+    <sdef n="aa"         c="Animate"/>
     <sdef n="ind"        c="Indefinite"/>
     <sdef n="itg"        c="Interrogative"/>
     <sdef n="det"        c="Determiner"/>
     <sdef n="dem"        c="Demonstrative"/>
     <sdef n="def"        c="Definite"/>
-    <sdef n="cnjcoo"        c="cnjcoo"/>
-    <sdef n="cnjsub"        c="cnjsub"/>
-    <sdef n="cnjadv"        c="cnjadv"/>
-    <sdef n="nt"        c="Neuter"/>
-    <sdef n="vbser"        c="Verb "to be""/>
-    <sdef n="vbhaver"        c="Verb "to have""/>
-    <sdef n="vblex"        c="Standard ("lexical") verb"/>
-    <sdef n="vbmod"        c="Modal verb"/>
+    <sdef n="cnjcoo"     c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"     c="Sub-ordinating conjunction"/>
+    <sdef n="cnjadv"     c="Conjunctive adverb"/>
+    <sdef n="nt"         c="Neuter"/>
+    <sdef n="vbser"      c="Verb 'to be'/>
+    <sdef n="vbhaver"    c="Verb 'to have'/>
+    <sdef n="vblex"      c="Standard ('lexical') verb"/>
+    <sdef n="vbmod"      c="Modal verb"/>
     <sdef n="inf"        c="Infinitive"/>
-    <sdef n="infps"        c="Personal Infinitive"/>
+    <sdef n="infps"      c="Personal Infinitive"/>
     <sdef n="ger"        c="Gerund"/>
     <sdef n="gerps"/>
-    <sdef n="pp"        c="Past participle"/>
+    <sdef n="pp"         c="Past participle"/>
     <sdef n="pri"        c="Present indicative"/>
-    <sdef n="p1"        c="First person"/>
-    <sdef n="p2"        c="Second person"/>
-    <sdef n="p3"        c="Third person"/>
+    <sdef n="p1"         c="First person"/>
+    <sdef n="p2"         c="Second person"/>
+    <sdef n="p3"         c="Third person"/>
     <sdef n="pii"        c="Imperfect"/>
     <sdef n="pmp"        c="Pluperfect"/>
     <sdef n="ifi"        c="Past definite"/>
@@ -62,18 +62,18 @@
     <sdef n="fts"        c="Future subjunctive "/>
     <sdef n="imp"        c="Imperative"/>
     <sdef n="pos"        c="Possessive"/>
-    <sdef n="sp"        c="Singular or plural "/>
+    <sdef n="sp"         c="Singular or plural "/>
     <sdef n="ref"        c="Reflexive"/>
     <sdef n="sup"        c="Superlative"/>
     <sdef n="num"        c="Numeral"/>
-    <sdef n="ij"        c="Interjection"/>
-    <sdef n="sent"        c="Sentence-ending punctuation"/>
-    <sdef n="cm"        c="Comma punctuation"/>
-    <sdef n="lpar"        c="Left parenthesis"/>
-    <sdef n="rpar"        c="Right parenthesis"/>
-    <sdef n="lquest"        c="Left question/exclamation mark">
+    <sdef n="ij"         c="Interjection"/>
+    <sdef n="sent"       c="Sentence-ending punctuation"/>
+    <sdef n="cm"         c="Comma punctuation"/>
+    <sdef n="lpar"       c="Left parenthesis"/>
+    <sdef n="rpar"       c="Right parenthesis"/>
+    <sdef n="lquest"     c="Left question/exclamation mark"/>
     <sdef n="cuavb"/>
-    <sdef n="percent"        c="Percentage"/>
+    <sdef n="percent"    c="Percentage"/>
    
   </sdefs>
   <pardefs>
