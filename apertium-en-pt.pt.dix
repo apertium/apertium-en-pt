@@ -39,8 +39,8 @@
     <sdef n="cnjsub"     c="Sub-ordinating conjunction"/>
     <sdef n="cnjadv"     c="Conjunctive adverb"/>
     <sdef n="nt"         c="Neuter"/>
-    <sdef n="vbser"      c="Verb 'to be'/>
-    <sdef n="vbhaver"    c="Verb 'to have'/>
+    <sdef n="vbser"      c="Verb 'to be' "/>
+    <sdef n="vbhaver"    c="Verb 'to have' "/>
     <sdef n="vblex"      c="Standard ('lexical') verb"/>
     <sdef n="vbmod"      c="Modal verb"/>
     <sdef n="inf"        c="Infinitive"/>
