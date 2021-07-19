@@ -1,0 +1,14 @@
+[7y0SfeN7lCuq#0] ^Num<NUM>{^5<num>$}$
+[/7y0SfeN7lCuq]
+[CcNy-IF6VjwW#0] ^unknown<unknown>{^*Davúapam$}$
+[/CcNy-IF6VjwW]
+[I-xefyCivMP8#0] ^Num<NUM>{^8%<num>$}$
+[/I-xefyCivMP8]
+[V7e2zscq6Ttt#0] ^unknown<unknown>{^*Husiit$}$
+[/V7e2zscq6Ttt]
+[io3oI9XtPhJ0#0] ^punt<sent>{^?<sent>$}$
+[/io3oI9XtPhJ0]
+[pLjGtCeRa9yL#0] ^unknown<unknown>{^*nislimrseat$}$
+[/pLjGtCeRa9yL]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]

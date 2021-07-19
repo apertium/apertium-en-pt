@@ -1,0 +1,36 @@
+[-pyx38sRkfXP#0] ^unknown<unknown>{^*Yorwsclrpgeicaons$}$^default<default>{^@'<apos>$}$^unknown<unknown>{^*er$}$
+[/-pyx38sRkfXP]
+[0DUCxD10owuT#0] ^coma<cm>{^,<cm>$}$
+[/0DUCxD10owuT]
+[6tNySZLTdyVu#0] ^unknown<unknown>{^*J$}$^punt<sent>{^.<sent>$}$ ^unknown<unknown>{^*mEte$}$
+[/6tNySZLTdyVu]
+[7mEXNKWIAmri#0] ^Be<Vcop><vbser><pri><p1><sg>{^ser<vbser><3><4><5>$}$
+[/7mEXNKWIAmri]
+[8IgPMH5TzP3i#0] ^default<default>{^¡<lquest>$}$
+[/8IgPMH5TzP3i]
+[MQG8sgTOmrdc#0] ^Verbcj<SV><vblex><pri><p3><sg>{^nascer<vblex><3><4><5>$}$
+[/MQG8sgTOmrdc]
+[Nec0s7C7O9Ul#0] ^unknown<unknown>{^*Günuwinsf$}$
+[/Nec0s7C7O9Ul]
+[QbgF6nrAFOI1#0] ^punt<sent>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[VboUgZspVrUD#0] ^Num<NUM>{^@0.17am<num>$}$
+[/VboUgZspVrUD]
+[gXAl0spyMq_u#0] ^Verbcj<SV><vblex><pri><p1><sg>{^nascer<vblex><3><4><5>$}$
+[/gXAl0spyMq_u]
+[gZdN7XarfQR8#0] ^Num<NUM>{^@5.09pm<num>$}$
+[/gZdN7XarfQR8]
+[moEF1xkUEFYi#0] ^Be<Vcop><vbser><pri><p1><sg>{^ser<vbser><3><4><5>$}$
+[/moEF1xkUEFYi]
+[nc4E9KZPCKKc#0] ^unknown<unknown>{^*oailrose$}$
+[/nc4E9KZPCKKc]
+[pBiNOrM5S82F#0] ^Num<NUM>{^@26.00pm<num>$}$
+[/pBiNOrM5S82F]
+[tR3cEDuYuxDb#0] ^Be<Vcop><vbser><pri><p3><sg>{^ser<vbser><3><4><5>$}$
+[/tR3cEDuYuxDb]
+[u3IIvJtdfATx#0] ^punt<sent>{^!<sent>$}$
+[/u3IIvJtdfATx]
+[voL4ISbIhgYN#0] ^unknown<unknown>{^*Hun$}$
+[/voL4ISbIhgYN]
+[zbTuKuppzGqD#0] ^punt<sent>{^.<sent>$}$
+[/zbTuKuppzGqD]

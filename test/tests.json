@@ -1,0 +1,10 @@
+{
+    "en-pt": {
+        "input": "en-pt-input.txt",
+        "mode": "en-pt"
+    },
+    "pt-en": {
+        "input": "pt-en-input.txt",
+        "mode": "pt-en"
+    }
+}
